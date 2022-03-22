@@ -73,9 +73,9 @@ Many anime watchers typically watch many different anime. However, there are man
 
 # Data Exploration
 
--The data will be stored in an s3 bucket. The data was downloaded from Kaggle as a zipped file containing five files and then uploaded to the s3 bucket as five individual files.
--We will use Sagemaker to ingest the data using Python. The csv files in the S3 bucket will be queried directly into a table using Amazon Athena. Amazon Sagemaker will then be used to load the Amazon Athena tables into Pandas dataframes for data exploration.
--We will assess data quality by looking for missing fields, null values, correlation, inconsistent data, evaluate data types, outliers and potentially which fields may require feature engineering.
+The data will be stored in an s3 bucket. The data was downloaded from Kaggle as a zipped file containing five files and then uploaded to the s3 bucket as five individual files.
+We will use Sagemaker to ingest the data using Python. The csv files in the S3 bucket will be queried directly into a table using Amazon Athena. Amazon Sagemaker will then be used to load the Amazon Athena tables into Pandas dataframes for data exploration.
+We will assess data quality by looking for missing fields, null values, correlation, inconsistent data, evaluate data types, outliers and potentially which fields may require feature engineering.
 
 ## Original Data 
 
