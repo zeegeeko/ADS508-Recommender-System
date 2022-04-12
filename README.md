@@ -18,7 +18,6 @@
 - [Model Strategies](#model-strategies)
 - [Presentations and Reports](#presentations-and-reports)
 - [Code](#code)
-- [Performance Results](#performance-results)
 - [Conclusion](#conclusion)
 - [References](#references)
 
