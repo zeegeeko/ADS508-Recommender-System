@@ -139,8 +139,6 @@ https://github.com/zeegeeko/ADS508-Recommender-System/blob/main/Team3_Modeling.i
 
 
 # Conclusion
-![image](https://user-images.githubusercontent.com/70973371/163028803-3d1fd71e-c4f9-4cc8-ace4-264d8c883d4d.png)
-
 Based on the average intra-list similarity metric by user, the comprehensive recommender had the highest average intra-list similarity measurement of 0.92. This means the recommended titles from the comprehensive recommender system gives more relevant and related content recommendations.
 
 # References
